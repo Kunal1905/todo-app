@@ -1,0 +1,18 @@
+nav {
+    background-color: rgb(64, 32, 171);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px;
+    color: white;
+}
+nav ul{
+    list-style-type: none;
+    display: flex;
+    align-content: center;
+    gap: 34px;
+}
+nav div{
+    font-weight: bolder;
+    font-size: larger;
+}
